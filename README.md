@@ -74,7 +74,24 @@ By the time you submit this project, you will have covered new ground in, and re
   - What was the most difficult part of the project?
   - What was your favourite part to work on?
   - What would you like to add next?
+---
+# Getting Started
 
+Most importantly, remember to **go slowly and be methodical**. That means you
+should be testing your changes in-browser as you write each line or so of code.
+Always be commiting.
+
+Here's a rough sketch of what you should do and in what order:
+
+### Planning
+
+1.  [ ] Create User Stories
+1.  [ ] Create Wire Frames
+1.  [ ] Create ERD ~> `Entity Relationship Diagram`[Read More](https://www.guru99.com/er-diagram-tutorial-dbms.html)
+
+### Set Up
+
+API
 ---
 
 ## Useful Resources
