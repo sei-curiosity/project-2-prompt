@@ -63,6 +63,7 @@ By the time you submit this project, you will have covered new ground in, and re
 - [Amazon s3 Tutorial](https://medium.com/alturasoluciones/setting-up-rails-5-active-storage-with-amazon-s3-3d158cf021ff)
 - [s3 Heroku Tutorial](https://devcenter.heroku.com/articles/direct-to-s3-image-uploads-in-rails)
 - [Extra-notes for devise](./Extra-notes-devise.md)
+- Use 3rd party API with [httparty](https://github.com/jnunemaker/httparty)
 ### Necessary Deliverables
 - Projects are due Thursday, 26/12 at 9am!  Submissions will be submitted via a google sheet before presentations start.
 - A **10 minute presentation** in which you answer the following questions:
