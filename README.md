@@ -91,7 +91,8 @@ Here's a rough sketch of what you should do and in what order:
 
 ### Set Up
 
-- Rails
+- Rails 
+- Git
 - Devise
 ---
 
