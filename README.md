@@ -50,7 +50,7 @@ By the time you submit this project, you will have covered new ground in, and re
 - User must be able to view all resources they created
 - User must be able to view a single resource they created
 - User must not be able to edit or delete other users' resources
-
+---
 #### Stretch Technical Goals (optional)
 
 - Make application responsive
