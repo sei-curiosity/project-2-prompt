@@ -59,7 +59,7 @@ By the time you submit this project, you will have covered new ground in, and re
 - [Seed database](https://gorails.com/episodes/intro-to-importing-from-csv) from CSV file of data
 - Allow users to upload image files 
 - [Rails Active Storage Video](https://gorails.com/episodes/file-uploading-with-activestorage-rails-5-2)
-- [Amazon or Active Storage]()
+- [Amazon s3 or Active Storage]()
 - [Amazon s3 Tutorial](https://medium.com/alturasoluciones/setting-up-rails-5-active-storage-with-amazon-s3-3d158cf021ff)
 - [s3 Heroku Tutorial](https://devcenter.heroku.com/articles/direct-to-s3-image-uploads-in-rails)
 
