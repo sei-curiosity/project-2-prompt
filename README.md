@@ -56,6 +56,10 @@ By the time you submit this project, you will have covered new ground in, and re
 - Add 2 or more resources other than user
 - Use a 3rd party gem like [bootstrap](https://github.com/twbs/bootstrap-rubygem) 
 - [Seed database](https://gorails.com/episodes/intro-to-importing-from-csv) from CSV file of data
+- Allow users to upload image files 
+- [Rails Active Storage Video](https://gorails.com/episodes/file-uploading-with-activestorage-rails-5-2)
+- [Amazon s3 Tutorial](https://medium.com/alturasoluciones/setting-up-rails-5-active-storage-with-amazon-s3-3d158cf021ff)
+- [s3 Heroku Tutorial](https://devcenter.heroku.com/articles/direct-to-s3-image-uploads-in-rails)
 
 ### Necessary Deliverables
 - Projects are due Thursday, 20/6 at 9am!  Submissions will be submitted via a google sheet before presentations start.
